@@ -11,5 +11,5 @@
 </h3>
 
 <h3 align="center">
-  <img src="https://skillicons.dev/icons?i=angular,react,nodejs,nestjs,js,ts,figma,apollo,java,spring,hibernate,kubernetes,docker,jenkins,maven,gradle,dotnet,aws,graphql,firebase,redis,fastapi,mysql,postgres,mongodb,vscode,visualstudio,github,gitlab" alt="Technologies" />
+  <img src="https://skillicons.dev/icons?i=angular,react,nodejs,nestjs,js,ts,figma,apollo,wordpress,java,spring,hibernate,kubernetes,docker,jenkins,maven,gradle,dotnet,aws,graphql,firebase,redis,fastapi,mysql,postgres,mongodb,vscode,visualstudio,github,gitlab" alt="Technologies" />
 </h3>
